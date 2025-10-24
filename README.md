@@ -1,0 +1,41 @@
+!DOCTYPE html
+html
+  head
+    titleMy First Websitetitle
+    link rel=stylesheet href=style.css
+  head
+  body
+
+    h1WelCome!h1
+
+    h2About Meh2
+
+    div class=card
+      img src=httpsi.imgur.comopfTQW0.jpeg alt=আমার ছবি
+      div
+        h2Mostofa Kamalh2
+        pআমি একজন নতুন ওয়েব ডেভেলপার। HTML, CSS এবং JavaScript শিখছি!p
+        pযদি কোনো ভুল হয়ে থাকে, ক্ষমা সুন্দর দৃষ্টিতে দেখবেন।p
+      div
+    div
+
+    h2আমার স্কিলসমূহh2
+    ul
+      liHTML, CSS, JavaScriptli
+      liClipping Pathli
+      liImage Editingli
+      liRemove Backgroundli
+      liRetouchli
+      liNeckwareli
+      liShadowli
+      liMaskingli
+      liETCli
+    ul
+
+    h2আমার ফেসবুক আইডি লিঙ্কh2
+    pa href=httpswww.facebook.comhplusyt target=_blankআমার ফেসবুকap
+    
+    pThanksp
+
+  body
+html
